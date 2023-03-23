@@ -5,7 +5,6 @@
   
 # 📖 [Hello-world] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
 
 **[Hello-world]** is a simple html-css project
 
@@ -117,7 +116,7 @@ Example:
 
 > Mention all of the collaborators of this project.
 
-👤 **Author1**
+👤 **steven**
 
 - GitHub: [@githubhandle](https://github.com/githubhandle)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
